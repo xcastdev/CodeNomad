@@ -18,3 +18,7 @@
 ## Tooling Preferences
 - Use the `edit` tool for modifying existing files; prefer it over other editing methods.
 - Use the `write` tool only when creating new files from scratch.
+
+## AI Rules
+- Use available mcps when needed
+- Delegate to subagents when possible for better context management and results
